@@ -26,6 +26,8 @@ MemoryCaptures/
 *.pidb
 *.booproj
 *.svd
+*.vscode
+
 
 # ========== OS ==========
 .DS_Store
